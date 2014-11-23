@@ -1,0 +1,11 @@
+{
+    "translationCatalog" : "ambience-cartridge",
+    "files" : [
+        { "displayName" : "cartridge-ringtone"          , "fileName" : "cartridge_Ringtone.wav" },
+        { "displayName" : "cartridge-messagetone"       , "fileName" : "cartridge_Message.wav" },
+        { "displayName" : "cartridge-imtone"            , "fileName" : "cartridge_IM.wav" },
+        { "displayName" : "cartridge-emailtone"         , "fileName" : "cartridge_Email.wav" },
+        { "displayName" : "cartridge-calendar-alarm"    , "fileName" : "cartridge_Calendar.wav" },
+        { "displayName" : "cartridge-clock-alarm"       , "fileName" : "cartridge_Clock.wav" }
+    ]
+}

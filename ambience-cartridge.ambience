@@ -1,0 +1,18 @@
+{
+    "translationCatalog"        : "ambience-cartridge",
+    "displayName"               : "Cartridge",
+    "ringerToneFile"            : { "file": "cartridge_Ringtone.wav", "enabled": 1 },
+    "messageToneFile"           : { "file": "cartridge_Message.wav",  "enabled": 1 },
+    "mailToneFile"              : { "file": "cartridge_Email.wav",    "enabled": 1 },
+    "internetCallToneFile"      : { "file": "cartridge_IM.wav",       "enabled": 1 },
+    "chatToneFile"              : { "file": "cartridge_IM.wav",     "enabled": 1 },
+    "calendarToneFile"          : { "file": "cartridge_Calendar.wav", "enabled": 1 },
+    "clockAlarmToneFile"        : { "file": "cartridge_Clock.wav",    "enabled": 1 },
+    "wallpaper"                 : "ambience-cartridge.jpg",
+    "highlightColor"            : "#F9B959",
+    "secondaryHighlightColor"   : "#FCDCAC",
+    "primaryColor"              : "#FFFFFF",
+    "secondaryColor"            : "#FFFFFF99",
+    "ringerVolume"              : 60,
+    "favorite"			: true
+}
