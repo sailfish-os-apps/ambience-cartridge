@@ -1,4 +1,4 @@
-This is the source of the  Ambience for Sailfish OS.
+This is the source of the cartridge Ambience for Sailfish OS.
 
 The Ambience is on openrepos. https://openrepos.net/content/nokius/cartridge-ambience 
 
